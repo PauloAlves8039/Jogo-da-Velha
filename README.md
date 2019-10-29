@@ -7,7 +7,7 @@ pertencente a formação [Desenvolvedor Front-end Júnior](https://www.treinaweb
 - CSS3
 - Javascript
 
-# Interface
+# Screenshot
 <html lang="pt-br">
 <head>
 </head>
