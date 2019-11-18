@@ -6,13 +6,14 @@ pertencente a formação [Desenvolvedor Front-end Júnior](https://www.treinaweb
 - HTML5
 - CSS3
 - Javascript
+- Bootstrap v3.3.7
 
 # Screenshot
 <html lang="pt-br">
 <head>
 </head>
 <body>
-	<img src="https://github.com/PauloAlves8039/Jogo-da-Velha/blob/master/imagem/jogo-da-velha.png" />
+	<img src="https://github.com/PauloAlves8039/Jogo-da-Velha/blob/master/resources/imagem/jogo-da-velha.png" />
 </body>
 </html>
 
